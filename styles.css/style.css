@@ -16,7 +16,7 @@
   }
   
   header {
-    background-image: url('your-header-background.jpg'); /* Replace with your header image */
+    background-image: url('ghanaaesthetic.jpeg'); /* Replace with your header image */
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -90,8 +90,8 @@
   }
   
   form input, form select {
-    background: #ddd;
-    color: #000;
+    background: whitesmoke;
+    color: black;
   }
   
   form button {
