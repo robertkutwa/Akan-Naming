@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Akan Name Finder</title>
+  <link rel="stylesheet" href="styles.css/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Akan Name Finder</h1>
+      <p>Discover your Akan name based on your birthdate and gender.</p>
+    </div>
+  </header>
+
+  <main>
+    
+    <section class="biography-section">
+      <h2>About the Ghanaian Naming Culture</h2>
+       <div class="biography-content">
+        
+        <p>
+          In Ghana, names have a deep cultural significance. 
+          The Akan people are known for naming children after the day of the week they were born. 
+          This tradition reflects the belief that the day of birth influences one's character and destiny.
+           For instance, boys born on Friday are named "Kofi," while girls are 
+           named "Afua." This tradition is an integral part of the Ghanaian identity, 
+           connecting individuals to their roots and community.
+        </p>
+         <img src="namingculture.jpeg" alt="Ghanaian Culture" />
+      </div>
+    </section>
+
+    
+    <section class="form-section">
+      <h2>Find Your Akan Name</h2>
+      <form id="akan-form">
+        <label for="dob">Enter your date of birth:</label>
+        <input type="date" id="dob" required>
+        
+        <label for="gender">Select your gender:</label>
+        <select id="gender" required>
+          <option value="">--Choose Gender--</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+        </select>
+        
+        <button type="submit">Get Akan Name</button>
+      </form>
+      <p id="result"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Akan Name Finder. All Rights Reserved.</p>
+  </footer>
+
+  <script src="java.js/java.js"></script>
+</body>
+</html>
