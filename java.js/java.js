@@ -4,7 +4,6 @@ document.getElementById('akan-form').addEventListener('submit', function (e) {
     const dob = document.getElementById('dob').value;
     const gender = document.getElementById('gender').value;
   
-    // Validation
     if (!dob) {
       alert("Please enter your date of birth.");
       return;
