@@ -30,6 +30,7 @@ document.getElementById('akan-form').addEventListener('submit', function (e) {
     const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   
     const akanName = akanNames[gender][dayOfWeek];
+    
     const dayName = days[dayOfWeek];
 
     const result = document.getElementById('result');
