@@ -25,7 +25,7 @@ Robert Kutwa Onyango
     <li>
       <strong>Clone the Repository:</strong>
       <pre>
-        <code>git clone &lt;repository_url&gt;</code>
+        <code>git clone &lt;github.com/robertkutwa/Akan-Naming&gt;</code>
         <code>cd akan-name-finder</code>
       </pre>
     </li>
