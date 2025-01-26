@@ -19,6 +19,39 @@ This tradition reflects the belief that the day of birth influences one's charac
 
 Robert Kutwa Onyango
 
+<section id="setup-instructions">
+  <h2>Setup Instructions</h2>
+  <ol>
+    <li>
+      <strong>Clone the Repository:</strong>
+      <pre>
+        <code>git clone &lt;repository_url&gt;</code>
+        <code>cd akan-name-finder</code>
+      </pre>
+    </li>
+    <li>
+      <strong>Open the Application:</strong>
+      <p>
+        Locate the <code>index.html</code> file in the project directory.  
+        Open the file using your preferred web browser (e.g., Chrome, Firefox, Edge).
+      </p>
+    </li>
+    <li>
+      <strong>Use the Application:</strong>
+      <ol>
+        <li>Input your birth date using the date picker or manual entry.</li>
+        <li>Select your gender from the provided options.</li>
+        <li>Click the <strong>Submit</strong> button to generate your Akan name.</li>
+      </ol>
+    </li>
+    <li>
+      <strong>Enjoy Your Akan Name!</strong>
+      <p>Discover and share your unique Akan name with others.</p>
+    </li>
+  </ol>
+</section>
+
+
 <section id="bdd">
   <h2>Behavior Driven Development (BDD)</h2>
   
@@ -66,4 +99,11 @@ Robert Kutwa Onyango
     The application ensures accurate results and provides clear error messages for invalid or incomplete inputs, enhancing the user experience.
   </p>
 </section>
+
+<h3>Technologies Used</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>JAVASCRIPT</li>
+
+
 
