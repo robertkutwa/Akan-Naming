@@ -15,11 +15,9 @@ document.getElementById('akan-form').addEventListener('submit', function (e) {
       return;
     }
   
-    // Parse the date and calculate the day of the week
     const date = new Date(dob);
     const dayOfWeek = date.getDay();
   
-    // Check for future dates
     if (date > new Date()) {
       alert("The date cannot be in the future. Please enter a valid date.");
       return;
