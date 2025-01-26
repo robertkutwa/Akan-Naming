@@ -105,6 +105,12 @@ Robert Kutwa Onyango
 <li>CSS</li>
 <li>JAVASCRIPT</li>
 
+<h3>Contacts</h3>
+https://www.linkedin.com/in/robert-kutwa-onyango-93932931a/
+Email:robertkutwa0@gmail.como
+
+<h3>License</h3>
+
 MIT License
 
 Copyright (c) 2025 robertkutwa
