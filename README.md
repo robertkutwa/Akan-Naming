@@ -107,7 +107,7 @@ Robert Kutwa Onyango
 
 <h3>Contacts</h3>
 https://www.linkedin.com/in/robert-kutwa-onyango-93932931a/
-Email:robertkutwa0@gmail.como
+<p>Email:robertkutwa0@gmail.com</p>
 
 <h3>License</h3>
 
